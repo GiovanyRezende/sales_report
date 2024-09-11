@@ -1,4 +1,4 @@
-#Power BI Sales Dashboards
+# Power BI Sales Dashboards
 *This is a challenge of Data Engineering NTT DATA Bootcamp in [DIO](https://web.dio.me/).* It consists in creating three dashboards for Data Analysis in Power BI, using a sales dataset.
 
 ## First dashboard
